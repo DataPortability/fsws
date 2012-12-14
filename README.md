@@ -20,11 +20,16 @@ The group was successful in promoting the idea of data portability but failed to
 What could be different this time? 
 
 Mr. X \[I'm applying the [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule "participants are free to use the information received, but neither the identity nor the affiliation of the speakers, nor that of any other participant, may be revealed.")] said it was time to try again. 
+
 ### Three Fronts
 Mr. X advocated three components that should work well together.  
-1. *Plumbing.* Find or build _infrastructure_ services. These could be pipes that move data from sources of personal data to apps, like [Singly](http://singly.com/) or [Kynetx](http://kynetx.com). They might also be infomediary services, sometimes called personal clouds, personal data stores, and data banks, like [Mydex](http://mydex.org) or [Personal](http://personal.com).  
-2. *Apps.* Find or build user-facing apps using those infrastructure services to present users with controls and ways to use their data, like [Reputation.com](http://reputation.com) or [Lifedash](https://www.lifedash.com/).
-3. *Activism.* Promote the ecosystem of apps and plumbing to consumers/citizens/patients, infotech developers/product managers/founders, and large holders of personal data (Big Internet, telcos, banks, etc.). A project site and tools could be used to crowdsource public naming and shaming of services failing a simple, objective, easy-to-prove litmus test.  
+
+1. Plumbing. Find or build _infrastructure_ services. These could be pipes that move data from sources of personal data to apps, like [Singly](http://singly.com/) or [Kynetx](http://kynetx.com). They might also be infomediary services, sometimes called personal clouds, personal data stores, and data banks, like [Mydex](http://mydex.org) or [Personal](http://personal.com).
+
+2. Apps. Find or build user-facing apps using those infrastructure services to present users with controls and ways to use their data, like [Reputation.com](http://reputation.com) or [Lifedash](https://www.lifedash.com/). 
+
+3. Activism. Promote the ecosystem of apps and plumbing to consumers/citizens/patients, infotech developers/product managers/founders, and large holders of personal data (Big Internet, telcos, banks, etc.). A project site and tools could be used to crowdsource public naming and shaming of services failing a simple, objective, easy-to-prove litmus test.
+
 ### Ask less, get more
 This time around, Mr. X said, the project should simplify scope. 
 #### Data Export. 
