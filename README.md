@@ -24,26 +24,20 @@ Mr. X \[I'm applying the [Chatham House Rule](https://en.wikipedia.org/wiki/Chat
 ### Three Fronts
 Mr. X advocated three components that should work well together.  
 
-1. Plumbing. Find or build _infrastructure_ services. These could be pipes that move data from sources of personal data to apps, like [Singly](http://singly.com/) or [Kynetx](http://kynetx.com). They might also be infomediary services, sometimes called personal clouds, personal data stores, and data banks, like [Mydex](http://mydex.org) or [Personal](http://personal.com).
+1. **Plumbing.** Find or build **infrastructure** services. These could be pipes that move data from sources of personal data to apps, like [Singly](http://singly.com/) or [Kynetx](http://kynetx.com). They might also be infomediary services, sometimes called personal clouds, personal data stores, and data banks, like [Mydex](http://mydex.org) or [Personal](http://personal.com).
 
-2. Apps. Find or build user-facing apps using those infrastructure services to present users with controls and ways to use their data, like [Reputation.com](http://reputation.com) or [Lifedash](https://www.lifedash.com/). 
+2. **Apps.** Find or build **user-facing** apps using those infrastructure services to present users with controls and ways to use their data, like [Reputation.com](http://reputation.com) or [Lifedash](https://www.lifedash.com/). 
 
-3. Activism. Promote the ecosystem of apps and plumbing to consumers/citizens/patients, infotech developers/product managers/founders, and large holders of personal data (Big Internet, telcos, banks, etc.). A project site and tools could be used to crowdsource public naming and shaming of services failing a simple, objective, easy-to-prove litmus test.
+3. **Activism.** Promote the ecosystem of apps and plumbing to consumers/citizens/patients, infotech developers/product managers/founders, and large holders of personal data (Big Internet, telcos, banks, etc.). A project site and tools could be used to crowdsource public naming and shaming of services failing a simple, objective, easy-to-prove litmus test. (Perhaps "Minimum Viable Compliance"?).
 
 ### Ask less, get more
-This time around, Mr. X said, the project should simplify scope. 
-#### Data Export. 
-Only ask for export from data suppliers. Limit the data to that provided directly by the user; not inferred or observed or co-created data. The model is Google's [Data Liberation Front](http://www.dataliberation.org). While more would be better and could be acknowledged, our ask is for export. 
-#### Fidelity. 
-Ask that data and their structures be exported without distortion or censorship.
-#### Delivery. 
-The data should be delivered in a useful, documented format. 
-#### Persistent Access.
-Access to the data export must always be turned on. 
-#### Free to Use. 
-Access to this data should be without strings, free of charges, and without liability. Treat users like adults.
- 
-Minimum Viable Compliance
+This time around, Mr. X said, the project should simplify. 
+
+- **Data Export.** Only ask for export from data suppliers. Limit the data to that provided directly by the user; not inferred or observed or co-created data. The model is Google's [Data Liberation Front](http://www.dataliberation.org). While more would be better and could be acknowledged, our ask is for export. 
+- **Fidelity.** Ask that data and their structures be exported without distortion or censorship.
+- **Delivery.** The data should be delivered in a useful, documented format. 
+- **Persistent Access.** Access to the data export must always be turned on. 
+- **Free to Use.** Access to this data should be without strings, free of charges, and without liability. Treat users like adults.
 
 ## Potential Actions
 - Recruit existing data providers and startups to come together. Does the small developer community look like [PDEC](http://pde.cc), the personal data ecosystem consortium? 
