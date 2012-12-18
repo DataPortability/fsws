@@ -42,7 +42,7 @@ This time around, Mr. X said, the project should simplify.
 ## Potential Actions
 - Recruit existing data providers and startups to come together. Does the small developer community look like [PDEC](http://pde.cc), the personal data ecosystem consortium? 
 - Discuss whether we need a new identity for this project or to take over DataPortability Project's domain, accounts and 501c3 corporation.
-- Contemplate deadlines and milestones: could we have a _Let My Data Go!_ month in Spring 2013? 
+- Contemplate deadlines and milestones: could we have a _Let My Data Go!_ month in Spring 2013? See [Data Freedom Month](https://github.com/DataPortability/fsws/wiki/Data-Freedom-month) notes. 
 
 ## Get involved
 - Watch this git/wiki [http://github.com/DataPortability/fsws](http://github.com/DataPortability/fsws)
