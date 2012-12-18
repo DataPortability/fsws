@@ -33,11 +33,11 @@ Mr. X advocated three components that should work well together.
 ### Ask less, get more
 This time around, Mr. X said, the project should simplify. 
 
-- **Data Export.** Only ask for export from data suppliers. Limit the data to that provided directly by the user; not inferred or observed or co-created data. The model is Google's [Data Liberation Front](http://www.dataliberation.org). While more would be better and could be acknowledged, our ask is for export. 
-- **Fidelity.** Ask that data and their structures be exported without distortion or censorship.
-- **Delivery.** The data should be delivered in a useful, documented format. 
-- **Persistent Access.** Access to the data export must always be turned on. 
-- **Free to Use.** Access to this data should be without strings, free of charges, and without liability. Treat users like adults.
+* **Data Export.** Only ask for export from data suppliers. Limit the data to that provided directly by the user; not inferred or observed or co-created data. The model is Google's [Data Liberation Front](http://www.dataliberation.org). While more would be better and could be acknowledged, our ask is for export. 
+* **Fidelity.** Ask that data and their structures be exported without distortion or censorship.
+* **Delivery.** The data should be delivered in a useful, documented format. 
+* **Persistent Access.** Access to the data export must always be turned on. 
+* **Free to Use.** Access to this data should be without strings, free of charges, and without liability. Treat users like adults.
 
 ## Potential Actions
 - Recruit existing data providers and startups to come together. Does the small developer community look like [PDEC](http://pde.cc), the personal data ecosystem consortium? 
