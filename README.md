@@ -3,7 +3,8 @@
 At the Fall 2012 Federated Social Web Summit (#fsws) in San Francisco, we had a session on what it would take to reboot the now-quiet [DataPortability Project](http://dataportability.org) half a decade later. 
 
 ## Remember the DataPortability Project 1.0? 
-<img src="https://farm9.staticflickr.com/8062/8284800637_fd8a92034b_o_d.jpg" style="float:right; margin:0 0 1em 1em;">The DataPortability Project was a volunteer group that advocated for user data portability principles, policies and practices. These included demands for user controlled 
+<img src="https://farm9.staticflickr.com/8062/8284800637_fd8a92034b_o_d.jpg" style="float:right; margin:0 0 1em 1em;" align="right">
+The DataPortability Project was a volunteer group that advocated for user data portability principles, policies and practices. These included demands for user controlled 
 - data import, export, and synchronization; 
 - access to all 
 -- data created directly by the user (like photos, text, audio), 
