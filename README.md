@@ -3,22 +3,22 @@
 At the Fall 2012 Federated Social Web Summit (#fsws) in San Francisco, we had a session on what it would take to reboot the now-quiet [DataPortability Project](http://dataportability.org) half a decade later. 
 
 ## Remember the DataPortability Project 1.0? 
-<img src="https://farm9.staticflickr.com/8062/8284800637_fd8a92034b_o_d.jpg" style="float:right; margin:0 0 1em 1em;" align="right">
-The DataPortability Project was a volunteer group that advocated for user data portability principles, policies and practices. These included demands for user controlled 
+<img src="https://farm9.staticflickr.com/8062/8284800637_fd8a92034b_o_d.jpg" align="right" margin="1em">
+The DataPortability Project was a volunteer group. It advocated for user data portability principles, policies and practices. These included demands for user-controlled: 
 - data import, export, and synchronization; 
 - access to all 
 -- data created directly by the user (like photos, text, audio), 
 -- data co-created with other users (threaded conversation, Etherpad docs), and 
 -- data observed or inferred about the user (click streams, scores, facial recognition profiles); 
 - the right to delete personal data, profiles, and history; 
-- control over distribution of the data and binding of these portability promises on other parties; 
-- disclosure of where data is physically held; and 
+- control over distribution of the data and the faithful binding of these portability promises upon other parties; 
+- disclosure of where data is physically held (jurisdictions) and by whom (agents and proxies); and 
 - due process when ending a service or closing an account. 
 
-The group was successful in promoting the idea of data portability but failed to promptly convert public attention and support into effective programmes that changed business and government behavior. Nevertheless, the project proved public concern and interest.  
+The group was successful in promoting the idea of data portability but failed to promptly convert public attention and support into effective programmes that changed business and government behavior. Nevertheless, the project demonstrated public concern and interest.  
 
 ## Approach
-What could be different this time? 
+***What could be different this time?*** 
 
 Mr. X \[I'm applying the [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule "participants are free to use the information received, but neither the identity nor the affiliation of the speakers, nor that of any other participant, may be revealed.")] said it was time to try again. 
 
@@ -47,7 +47,5 @@ This time around, Mr. X said, the project should simplify.
 * **Contemplate deadlines and milestones.** Could we have a _Let My Data Go!_ month in Spring 2013? See [Data Freedom Month](https://github.com/DataPortability/fsws/wiki/Data-Freedom-month) notes. <img src="https://farm9.staticflickr.com/8351/8284762601_bcb9bc0d84_o_d.jpg">
 
 ## Get involved
-- Watch this git/wiki [http://github.com/DataPortability/fsws](http://github.com/DataPortability/fsws)
+- **Watch this git/wiki** [http://github.com/DataPortability/fsws](http://github.com/DataPortability/fsws)
 - See the Google Group (coming soon)
-
-
