@@ -41,8 +41,8 @@ This time around, Mr. X said, the project should simplify.
 * **Free to Use.** Access to this data should be without strings, free of charges, and without liability. Treat users like adults.
 
 ## Potential Actions
-<img src="https://farm9.staticflickr.com/8351/8284762601_bcb9bc0d84_o_d.jpg">
-* **Enroll the partners.** Recruit existing data providers and startups to come together. Does the small developer community look like [PDEC](http://pde.cc), the personal data ecosystem consortium? 
+<img src="https://farm9.staticflickr.com/8351/8284762601_bcb9bc0d84_o_d.jpg" alt="Let My Data Go! banner featuring engraving of Moses holding tablets aloft">
+* **Enroll the partners.** Recruit existing data providers and startups to come together. Does the small developer community look like [PDEC](http://pde.cc/)'s [Startup Circle](http://pde.cc/directory/), members of the personal data ecosystem consortium? 
 * **Organization.** Discuss whether we need a new identity for this project or to take over DataPortability Project's domain, accounts and 501c3 corporation.
 * **Business model.** Who's the customer? What value will we deliver? How do we cover costs and fund staff and operations? Perhaps a business model canvas session? 
 * **Contemplate deadlines and milestones.** Could we have a _Let My Data Go!_ month in late Spring 2013? Maybe April? See [Data Freedom Month](https://github.com/DataPortability/fsws/wiki/Data-Freedom-month) notes. 
